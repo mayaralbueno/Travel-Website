@@ -19,7 +19,7 @@ if(navClose){
     })
 }
 
-/*==================== REMOVE MENU MOBILE ====================*/
+/*==================== REMOVE MENU o MOBILE ====================*/
 const navLink = document.querySelectorAll('.nav__link')
 
 function linkAction(){
