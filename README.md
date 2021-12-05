@@ -12,3 +12,12 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  
    </p>
+
+
+
+  <h2  align="center"> website <h2>
+        
+      
+ <p align="center">
+<img src="https://media.giphy.com/media/poaEXN8pvGJIiFBQA2/giphy.gif" style="width: 65%;">
+</p>
