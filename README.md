@@ -24,7 +24,7 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
 
 
 
-  <h2  align="center"> website <h2>
+  <h2  align="center"> website ✈🌊 <h2>
         
       
  <p align="center">
