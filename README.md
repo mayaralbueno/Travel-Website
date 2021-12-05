@@ -1,4 +1,4 @@
-# Travel-Website
+# Travel-Website 🏖🌊
 
 Website criado com javaScrip, css, scss e html,o website tem intuito de simular uma pagina de viagem interativa.
 
