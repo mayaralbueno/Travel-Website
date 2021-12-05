@@ -24,16 +24,16 @@ const navLink = document.querySelectorAll('.nav__link')
 
 function linkAction(){
     const navMenu = document.getElementById('nav-menu')
-    // When we click on each nav__link, we remove the show-menu class
+   
     navMenu.classList.remove('show-menu')
 }
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 
-/*==================== CHANGE BACKGROUND HEADER ====================*/
+/*==================== mudaBACKGROUND HEADER ====================*/
 function scrollHeader(){
     const header = document.getElementById('header')
-    // When the scroll is greater than 100 viewport height, add the scroll-header class to the header tag
+   
     if(this.scrollY >= 100) header.classList.add('scroll-header'); else header.classList.remove('scroll-header')
 }
 window.addEventListener('scroll', scrollHeader)
@@ -58,14 +58,14 @@ const videoFile = document.getElementById('video-file'),
 
 function playPause(){ 
     if (videoFile.paused){
-        // Play video
+        // Play no video
         videoFile.play()
-        // We change the icon
+        
         videoIcon.classList.add('ri-pause-line')
         videoIcon.classList.remove('ri-play-line')
     }
     else {
-        // Pause video
+        // Pause o video
         videoFile.pause(); 
         // We change the icon
         videoIcon.classList.remove('ri-pause-line')
@@ -76,18 +76,18 @@ function playPause(){
 videoButton.addEventListener('click', playPause)
 
 function finalVideo(){
-    // Video ends, icon change
+    // Video e, icon muda
     videoIcon.classList.remove('ri-pause-line')
     videoIcon.classList.add('ri-play-line')
 }
-// ended, when the video ends
+
 videoFile.addEventListener('ended', finalVideo)
 
 
 /*==================== SHOW SCROLL UP ====================*/ 
 function scrollUp(){
     const scrollUp = document.getElementById('scroll-up');
-    // When the scroll is higher than 200 viewport height, add the show-scroll class to the a tag with the scroll-top class
+   
     if(this.scrollY >= 200) scrollUp.classList.add('show-scroll'); else scrollUp.classList.remove('show-scroll')
 }
 window.addEventListener('scroll', scrollUp)
@@ -143,7 +143,7 @@ sr.reveal(`.about__img-overlay,
     interval: 100,
 })
 
-/*==================== DARK LIGHT THEME ====================*/ 
+/*==================== claro e escuro tema ====================*/ 
 const themeButton = document.getElementById('theme-button')
 const darkTheme = 'dark-theme'
 const iconTheme = 'ri-sun-line'
