@@ -14,7 +14,7 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
    </p>
    
    
-  <h2  align="center"> PREVIEW  :<h2>
+  <h2  align="center"> PREVIEW  🚢<h2>
         
       
  <p align="center">
@@ -30,3 +30,6 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
  <p align="center">
 <img src="https://media.giphy.com/media/poaEXN8pvGJIiFBQA2/giphy.gif" style="width: 65%;">
 </p>
+
+    
+     [Climatika](https://www.youtube.com/embed/YzRDHxbw1RU) 🔗
