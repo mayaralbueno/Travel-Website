@@ -40,7 +40,7 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
     <tr>
   <table align="center">
   <img src="https://avatars.githubusercontent.com/u/87502893?v=4" style="width: 20%;">
-    
+    <h4><b>Mayara bueno</b></h4>
       </tr>
 </table>
     
