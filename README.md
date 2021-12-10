@@ -2,7 +2,7 @@
 
 Website criado com javaScrip, css, scss e html,o website tem intuito de simular uma pagina de viagem interativa.
 
-<h1  align="center"> Travel  ✈</H1>
+<h1  align="center"> Travel  ✈</H1>🌏
 
   
 
