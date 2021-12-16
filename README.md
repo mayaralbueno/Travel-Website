@@ -2,7 +2,9 @@
 
 Website criado com javaScrip, css, scss e html,o website tem intuito de simular uma pagina de viagem interativa.
 
-<h1  align="center"> Travel  ✈</H1>🌏
+<h1  align="center"> Travel  ✈</H1>
+
+
 
   
 
@@ -36,13 +38,16 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
    voce pode encontrar as mais bonitas e prazerosos lugares e melhores preços com um desconto especial, voce pode escolher o luhar e iremos guiar voce a todo momento, escolha seu viagem agora!!
    <h5 >
     
+<img src="https://media.giphy.com/media/toelXGUsYD6vtCN408/giphy.gif" style="width: 65%;">
+
+    
+
+    
 <h2> Dev ⚒</h2>
     <tr>
-  <table align="center">
   <img src="https://avatars.githubusercontent.com/u/87502893?v=4" style="width: 20%;">
     <h4><b>Mayara bueno</b></h4>
       </tr>
-</table>
     
     
     
