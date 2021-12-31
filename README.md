@@ -35,7 +35,7 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
     <h5 
 
   para mais informações  
-   voce pode encontrar as mais bonitas e prazerosos lugares e melhores preços com um desconto especial, voce pode escolher o luhar e iremos guiar voce a todo momento, escolha seu viagem agora!!
+   voce pode encontrar as mais bonitas e prazerosos lugares e melhores preços com um desconto especial, voce pode escolher o luhar e iremos guiar voce a todo momento, escolha seu viagem agora!! 🌏✈
    <h5 >
     
 <img src="https://media.giphy.com/media/toelXGUsYD6vtCN408/giphy.gif" style="width: 65%;">
