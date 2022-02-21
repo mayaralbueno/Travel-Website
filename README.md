@@ -43,11 +43,6 @@ Website criado com javaScrip, css, scss e html,o website tem intuito de simular 
     
 
     
-<h2> Dev ⚒</h2>
-    <tr>
-  <img src="https://avatars.githubusercontent.com/u/87502893?v=4" style="width: 20%;">
-    <h4><b>Mayara bueno</b></h4>
-      </tr>
     
     
     
